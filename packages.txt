@@ -1,0 +1,6 @@
+streamlit_drawable_canvas
+matplotlib.pyplot
+numpy
+tensorflow.keras.utils
+keras
+pyttsx3
